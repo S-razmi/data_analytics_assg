@@ -1,0 +1,6 @@
+,country,iso_code,date,total_vaccinations,vaccines,source_name,source_website
+18480,Iceland,ISL,30/12/2020,4875,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
+19243,Iran,IRN,02/08/2021,1.756,"COVIran Barekat, Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",World Health Organization,https://covid19.who.int/
+24589,Macao,MAC,08/02/2021,1.029,"Pfizer/BioNTech, Sinopharm/Beijing",Government of Macao,https://www.gov.mo/zh-hant/news/814428/
+1107,Anguilla,AIA,2021-02-04 00:00:00,1.825,Oxford/AstraZeneca,World Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+8976,Congo,COG,2021-04-14 00:00:00,14297,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Africa Centres for Disease Control and Prevention,https://africacdc.org/covid-19-vaccination/
